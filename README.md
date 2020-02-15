@@ -1,4 +1,4 @@
-<h1>Entendiendo ES6</h1>
+<h1 align="center">Entendiendo ES6</h1>
 
 # Promesa
 Me resuelve cuando un proceso ya esta listo o ya termino. 
