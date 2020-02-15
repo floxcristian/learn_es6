@@ -1,5 +1,7 @@
 <h1 align="center">Entendiendo ES6</h1>
 
+<img width=100% src="https://www.adictosaltrabajo.com/wp-content/uploads/2018/05/el_remozado_javascript.imagen.jpg">
+
 # Promesa
 Me resuelve cuando un proceso ya esta listo o ya termino. 
 
